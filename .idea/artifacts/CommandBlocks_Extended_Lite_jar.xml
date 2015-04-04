@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommandBlocks Extended Lite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandBlocks_Extended_Lite_jar</output-path>
+    <root id="archive" name="CommandBlocks Extended Lite.jar">
+      <element id="module-output" name="CommandBlocks Extended Lite" />
+    </root>
+  </artifact>
+</component>
